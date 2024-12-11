@@ -1,4 +1,4 @@
-import React from 'react';
+    import React from 'react';
 import { BrowserRouter as Router, Route, Routes, Link } from 'react-router-dom';
 import './App.css';
 import { useState, useEffect } from 'react';
@@ -51,7 +51,7 @@ function App() {
     <Router>
       <div className="App">
         <header>
-          <h1>Spotilike</h1>
+          <h1>ALBUM OF THE YEAR</h1>
           <nav>
             <ul>
               <li>
